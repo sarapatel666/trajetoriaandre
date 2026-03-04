@@ -1,0 +1,55 @@
+body {
+        background: #a0c2ff;
+        margin: 40px;
+    }
+    h1 {
+        color: #03033e;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 41px;
+        font-weight: 550px;
+        text-align: center;
+    }
+    figure {
+      margin: 20px;
+      text-align: center;
+      border: 1px solid #03033e;
+      padding: 10px;
+      border-radius: 8px;
+    }
+    figcaption {
+      font-style: italic;
+      color: #03033e;
+      margin-top: 8px;
+      font-size: 33px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    p {
+        color: #03033e;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 25px;
+        font-weight: 500px;
+    }
+    .bloco {
+        width: auto;              
+        height: auto;      
+        margin: 20px;    
+        padding: 33px; 
+        background-color: #cfe5ff;
+        display: flex;     
+        text-align: justify;       
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+        border-radius: 8px; 
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    a {
+        font-size: 15px;
+    }
